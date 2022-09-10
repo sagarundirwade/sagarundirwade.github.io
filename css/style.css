@@ -632,6 +632,7 @@ header .circle {
 }
 
 .card-wrap:hover .card {
+  background-color: #ff800010;
   transform: translateY(-15px);
 }
 
